@@ -21,10 +21,12 @@ params:
   ok: 008000
   shortDateFormat: '15:04 — Jan 2'
   systems:
-    - description: ''
+    - description: The status of the wiki.
       name: ZoomWiki
-    - name: ZoomVPN
-    - name: Heroku
+    - description: The status of the VPN.
+      name: ZoomVPN
+    - description: The status of Heroku and it’s components.
+      name: Heroku
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
