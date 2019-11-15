@@ -7,6 +7,6 @@ resolvedWhen: 2019-11-15T22:33:10.903Z
 affected:
   - ZoomWiki
   - ZoomVPN
-severity: notice
+severity: disrupted
 ---
 _Investigating_ - We are investigating a potential issue that might affect the load time of a couple of our services. This incident post will be updated once we have more information.
