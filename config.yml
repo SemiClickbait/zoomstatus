@@ -27,7 +27,7 @@ params:
       name: ZoomVPN
     - description: The status of Heroku and it’s components.
       name: Heroku
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
 preserveTaxonomyNames: true
