@@ -6,7 +6,7 @@ baseURL: 'https://zoomstatus.netlify.com'
 params:
   alwaysKeepBrandColor: true
   autoRefresh: true
-  brand: 0a0c0f
+  brand: ffffff
   customTabs: []
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
@@ -16,7 +16,7 @@ params:
   down: e60000
   googleAnalytics: UA-00000000-1
   incidentPostsPerPage: 10
-  logo: /logo.png
+  logo: /img/bb2b7dc3-c6be-43b1-af31-79cd9a51e5eb.gif
   notice: 24478f
   ok: 008000
   shortDateFormat: '15:04 — Jan 2'
@@ -26,7 +26,7 @@ params:
     - name: ZoomVPN
     - name: Heroku
   useLargeHeaderDesign: false
-  useLogo: false
+  useLogo: true
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
