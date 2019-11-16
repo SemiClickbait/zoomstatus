@@ -8,7 +8,7 @@ affected:
   - ZoomVPN
 severity: disrupted
 ---
-_Monitoring_ - We have deployed a fix, and we are monitoring conditions. We should be up within the next hour.
+_Monitoring_ - We have deployed a fix, and we are monitoring conditions. ZoomVPN should be up within the next hour.
 
 _Update_ -  We have deployed a patch, but the deploy failed. ZoomVPN will be down until further notice.
 
