@@ -24,11 +24,11 @@ params:
   ok: 228B22
   shortDateFormat: '15:04 — Jan 2'
   systems:
-    - description: The status of the Zoon
+    - description: ZoomWiki - Wikipedia, but better.
       name: ZoomWiki
-    - description: The status of the VPN.
+    - description: ZoomVPN - Browse freely.
       name: ZoomVPN
-    - description: The status of Heroku and it’s components.
+    - description: Heroku - PHP hosting for all.
       name: Heroku
   useLargeHeaderDesign: false
   useLogo: true
