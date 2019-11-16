@@ -7,7 +7,10 @@ params:
   alwaysKeepBrandColor: true
   autoRefresh: true
   brand: ffffff
-  customTabs: []
+  customTabs:
+    - link: >-
+        https://docs.google.com/forms/d/1QZ-y7UKKcwkHJ04NLfLCHVGczo4ZEiu8HwwnFycXBvQ/
+      name: Report an Issue
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description: >-
     We continuously monitor the status of our services and if there are any
