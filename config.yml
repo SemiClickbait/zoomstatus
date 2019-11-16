@@ -4,7 +4,7 @@ defaultContentLanguage: en
 languageCode: en
 baseURL: 'https://zoomstatus.netlify.com'
 params:
-  alwaysKeepBrandColor: false
+  alwaysKeepBrandColor: true
   autoRefresh: true
   brand: ffffff
   customTabs:
