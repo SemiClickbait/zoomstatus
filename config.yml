@@ -18,16 +18,16 @@ params:
   incidentPostsPerPage: 10
   logo: /img/6d700943-ede4-4c60-a6ca-5eb4f3e2c94a.jpeg
   notice: 24478f
-  ok: 008000
+  ok: ff8fff
   shortDateFormat: '15:04 — Jan 2'
   systems:
-    - description: The status of the wiki.
+    - description: The status of the Zoon
       name: ZoomWiki
     - description: The status of the VPN.
       name: ZoomVPN
     - description: The status of Heroku and it’s components.
       name: Heroku
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
 preserveTaxonomyNames: true
