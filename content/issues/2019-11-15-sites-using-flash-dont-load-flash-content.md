@@ -6,7 +6,7 @@ resolved: true
 resolvedWhen: 2019-11-16T00:15:41.193Z
 affected:
   - ZoomVPN
-severity: disrupted
+severity: down
 ---
 _Resolved_ - This incident was resolved.
 
