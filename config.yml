@@ -12,13 +12,13 @@ params:
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
-  disrupted: cc4400
-  down: e60000
+  disrupted: FF8C00
+  down: DC143C
   googleAnalytics: UA-00000000-1
   incidentPostsPerPage: 10
   logo: /img/6d700943-ede4-4c60-a6ca-5eb4f3e2c94a.jpeg
-  notice: 24478f
-  ok: ff8fff
+  notice: '708090'
+  ok: 228B22
   shortDateFormat: '15:04 — Jan 2'
   systems:
     - description: The status of the Zoon
