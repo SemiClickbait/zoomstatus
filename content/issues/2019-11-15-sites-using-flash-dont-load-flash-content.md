@@ -3,7 +3,7 @@ section: issue
 title: Adobe Flash content loads incorrectly
 date: 2019-11-16T00:15:41.088Z
 resolved: true
-resolvedWhen: 2019-11-16T00:15:41.193Z
+resolvedWhen: 2019-11-16T20:32:00.000Z
 affected:
   - ZoomVPN
 severity: down
