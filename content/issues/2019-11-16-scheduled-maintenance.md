@@ -2,7 +2,7 @@
 section: issue
 title: Scheduled Maintenance
 date: 2019-11-20T05:00:00.000Z
-resolved: false
+resolved: true
 resolvedWhen: ''
 affected:
   - ''
